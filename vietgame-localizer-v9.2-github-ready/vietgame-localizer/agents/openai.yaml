@@ -1,0 +1,4 @@
+interface:
+  display_name: "VietGame Localizer"
+  short_description: "Việt hóa game, giữ xưng hô và nối lượt bằng STATE"
+  default_prompt: "Dùng $vietgame-localizer để Việt hóa game theo quy mô mỗi lượt tôi yêu cầu, giữ ngữ cảnh và xuất PATCH cùng STATE để tiếp tục."

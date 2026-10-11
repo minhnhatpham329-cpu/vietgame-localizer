@@ -1,0 +1,1 @@
+Tiếp tục theo hướng dẫn dịch game hiện hành và STATE mới nhất. Giữ quy mô mỗi lượt đã yêu cầu; dùng nguồn đúng key, kiểm mối nối với patch trước rồi giao PATCH + STATE mới, kê phần còn thiếu nếu có.
